@@ -1,22 +1,17 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Plain Text Files and Structured Files",
+    "slug": "programming-plain-text-files-structured-files",
+    "description": "An introduction to the idea of plain-text files and structured file formats and how they differ.",
     "authors": [
-        "",
-        ""
-    ],
+        "chris-cooling"
+    ],  
     "tags": [
-        "",
-        ""
+        "chris-cooling"
     ],
-    "duration": 0,
+    "duration": 3,
     "prerequisites": [
-        "",
-        ""
     ],
     "related": [
-        "",
-        ""
+        "python-py-files"
     ]
 }
